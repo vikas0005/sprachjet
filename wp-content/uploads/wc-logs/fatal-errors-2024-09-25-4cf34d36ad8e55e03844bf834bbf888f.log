@@ -1,0 +1,8 @@
+2024-09-25T11:31:26+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 73728 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-25T11:32:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 77824 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-25T11:41:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-25T11:50:49+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 73728 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+

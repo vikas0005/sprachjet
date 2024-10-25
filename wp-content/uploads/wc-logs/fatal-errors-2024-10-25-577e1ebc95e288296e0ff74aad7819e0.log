@@ -1,0 +1,2 @@
+2024-10-25T13:09:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 86016 bytes) in E:\wamp64\www\sprachjet\wp-includes\class-wpdb.php on line 2344
+

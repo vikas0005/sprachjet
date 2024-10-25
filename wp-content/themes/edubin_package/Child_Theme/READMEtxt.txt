@@ -1,0 +1,1 @@
+This theme need only for development purposes or theme modifications. All features functionality has been the edubin.zip theme file. 

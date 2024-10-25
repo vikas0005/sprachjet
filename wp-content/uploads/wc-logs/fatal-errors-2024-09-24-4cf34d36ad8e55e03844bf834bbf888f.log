@@ -1,0 +1,22 @@
+2024-09-24T13:54:31+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 57344 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-24T13:57:10+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 57344 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-24T13:57:25+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 57344 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-24T13:57:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 57344 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-24T13:58:20+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-24T13:59:43+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-24T14:01:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-24T14:04:21+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-24T14:06:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-24T14:07:04+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 73728 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
+2024-09-24T14:07:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 57344 bytes) in /home/dipbmfilzmzj/public_html/wp-includes/class-wpdb.php on line 2315
+
